@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Placevent3",
-    version="0.0.1",
+    version="0.1",
     entry_points={
         'console_scripts': [
             'placevent=Placevent3.placevent:main',
