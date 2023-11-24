@@ -1,4 +1,4 @@
-<H1>Placevent3</H1>
+# Placevent3
 
 Placevent3 - Python 3 translation of Placevent modified
 by Shinji Aono (aono@rist.or.jp) and Michio Katouda (katouda@rist.or.jp)    
@@ -18,11 +18,11 @@ http://dansindhikara.com/Software/Entries/2012/6/22_Placevent_New.html
 If you have Numpy, this package should work out of the box. Please contact authors if you have problems.    
 This package requires Numpy.    
 
-<H2>EXAMPLE:</H2>
+## EXAMPLE:
 Please see the tests/1L2Y/ for examples/tests    
 In that directory, run test.sh to see if your local installation matches the reference output.    
 
-<H2>TUTORIAL:</H2>
+## TUTORIAL:
 See my website: http://dansindhikara.com/Tutorials/Entries/2012/1/1_Using_3D-RISM_and_PLACEVENT.html
 for a tutorial.    
 
