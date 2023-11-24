@@ -1,8 +1,11 @@
+# Placevent3
+
 Oct 9, 2023
-Upgrade to 2.0
+Upgrade to 0.1
 1) Add grid.py to package
 2) Port from python 2 to python 3.
 
+# Placevent
 Oct 9, 2013
 Upgrade to 1.4
 1) Added Molecular Design Frontier 3D-RISM (MDF 3D-RISM) .h5 compatibility.
