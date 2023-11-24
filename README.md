@@ -7,6 +7,7 @@ Placevent - 3D-RISM-based solvent and ion placement software created
 by Daniel Sindhikara (sindhikara@gmail.com)    
 This program is designed to automatically place explicit solvent atoms/ions based 
 on 3D-RISM data. Placevent is compatible with AMBER .dx files and MDF .h5 files.    
+https://github.com/dansind/Placevent
 
 The details of the algorithm are described in:    
 Placevent: An algorithm for prediction of explicit solvent atom distribution 
